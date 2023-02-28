@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.main-container {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.items-container {
+  width: 600px;
+  box-shadow: black;
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.language-list {
+  display: flex;
+}

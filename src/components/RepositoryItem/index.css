@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item {
+  margin: 20px;
+  display: flex;
+  height: 300px;
+}
+.small-container {
+  display: flex;
+  justify-content: center;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+}
+
+.small-image {
+  height: 20px;
+  width: 20px;
+  margin-top: 15px;
+}
